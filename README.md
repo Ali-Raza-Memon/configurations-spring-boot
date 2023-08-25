@@ -1,4 +1,4 @@
-          #Postgre Configurations 
+#Configure Spring Boot Application with PostgreSQL Server
 spring.datasource.url=jdbc:postgresql://localhost:5432/database
 spring.datasource.username=username
 spring.datasource.password=password
