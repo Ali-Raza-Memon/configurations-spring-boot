@@ -10,7 +10,6 @@ spring.jpa.properties.hibernate.temp.use_jdbc_metadata_defaults=true
 server.port=9090
 
 #Configure Spring Boot Application with MySQL database
-
 spring.datasource.driver-class-name= com.mysql.cj.jdbc.Driver
 spring.datasource.url= jdbc:mysql://localhost:3306/database
 spring.datasource.username = username
